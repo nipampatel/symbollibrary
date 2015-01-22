@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>MVCActiveDirectoryAuthentication.Services</id>
+        <version>$version$</version>
+        <title>MVCActiveDirectoryAuthentication.Services</title>
+        <authors>Shaw Media</authors>
+        <owners>Shaw Media</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Checking if assembly version an be included in description $version$</description>
+        <releaseNotes>Remake of blogs using JSON interface instead of XMLRPC</releaseNotes>
+        <copyright>Copyright Shaw Media Inc. 2014</copyright>
+        <tags>CommonPlatform.Module.HelloWorld</tags>
+    </metadata>
+    <files>
+        <file src="bin\Debug\MVCActiveDirectoryAuthentication.Services.dll" target="lib\net45" />
+        <file src="bin\Debug\MVCActiveDirectoryAuthentication.Services.pdb" target="lib\net45" />        
+    </files>
+</package>
