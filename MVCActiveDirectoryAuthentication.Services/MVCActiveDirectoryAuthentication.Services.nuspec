@@ -13,7 +13,6 @@
         <tags>CommonPlatform.Module.HelloWorld</tags>
     </metadata>
     <files>
-        <file src="bin\Release\MVCActiveDirectoryAuthentication.Services.dll" target="lib\net45" />
-        <file src="bin\Release\MVCActiveDirectoryAuthentication.Services.pdb" target="lib\net45" />        
+        <file src="bin\debug\MVCActiveDirectoryAuthentication.Services.dll" target="lib\net45" />
     </files>
 </package>
