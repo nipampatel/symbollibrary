@@ -28,5 +28,10 @@ namespace MVCActiveDirectoryAuthentication.Services
             }            
             return true;
         }
+
+        public static string GetMeString()
+        {
+            return "I am giving you string";
+        }
     }
 }
