@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>MVCActiveDirectoryAuthentication.Services</id>
-        <version>1.0.0.0</version>
+        <version>$version$</version>
         <title>MVCActiveDirectoryAuthentication.Services</title>
         <authors>Shaw Media</authors>
         <owners>Shaw Media</owners>
